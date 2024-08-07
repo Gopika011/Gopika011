@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 🧑‍🎓 I’m an Undergraduate at **MITS**
+- 🧑‍🎓 Undergraduate at **MITS**
 
 - 💬 Ask me about **Web development**
 
