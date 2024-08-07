@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **gopika011@gmail.com**
   
-- ⚡ Fun fact **Call me as GOPIKAAA**
 
 </td>
 <td width="50%" align="center">
