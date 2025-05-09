@@ -9,8 +9,6 @@
 
 - 🧑‍🎓 Undergraduate at **MITS**
 
-- 💬 Ask me about **Web development**
-
 - 📫 How to reach me **gopika011@gmail.com**
   
 
