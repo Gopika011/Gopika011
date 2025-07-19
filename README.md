@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm J R Gopika</h1>
+<h1 align="center">Hello! I'm J R Gopika</h1>
 <h3 align="center">💻 Full-Stack Web Developer | 🤖 Competitive Programmer | 🧠 CS Student at MITS</h3>
 
 <table align="center">
